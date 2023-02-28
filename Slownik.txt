@@ -1,0 +1,3 @@
+Zdrowie - Liczba punktow zdrowia, gdy osiagnie wartosc 0 postac umiera
+Atak - Maksymalana liczba obrazen jaka moze zadac postac
+Predkosc - Postac majaca wieksza predkosc zaczyna walke

@@ -1,0 +1,7 @@
+Witaj, celem gry jest przejscie z prawego gornego rogu mapy do lewgo dolnego rogu mapy.
+W tracie swojej przygody mozesz napotkac przeciwnikow.
+Gdy nie jestes gotow stawic im czola, mozesz probowac im uciec.
+Na mapie rozmieszczone sa apteczki, ktore przywroca tobie utracone punkty zdrowia oraz skrzynki.
+Skrzynka moze zawierac dodatkowe monety, albo okazac sie niebezpieczna pulapka.
+Znajdzisz tez trenera, ktory za oplata wzmocni twoje statystyki. Gdy zabraknie ci monet, mozesz sprzedac trenerowi niepotrzebne przedmioty.
+Trener docenia swoich klientow. Za pierwsza tranzakcje zaplaci wiecej niz zwykle.
